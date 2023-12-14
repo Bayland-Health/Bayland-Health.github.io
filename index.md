@@ -30,15 +30,15 @@ Infrastructures:
 
 
 
-## [Bayland Health Organization Cloud (BHOC)](/cloud/)
+## [Bayland Health Organization Cloud (BHOC)](/cloud)
 By utilizing public cloud services such as AWS, we can deploy and scale our data infrastructure in a short amount of time while achieving high security and availability.
 
 
-## [DPL Management System (DMS)](/dms/)
+## [DPL Management System (DMS)](/dms)
 DPL Management System utilizes the existing cloud infrastructure and datasets to democratize data share and analytics for the entire company. It is a dashboard web application that presents real-time corporate and market data to its users built using the Streamlit library. Many of my colleagues suffered from slow and complicated reporting methods. A simple query about the total number of units sold yesterday will require logging into many different accounts finding the corresponding numbers and summing to get the final result, which could take anywhere between 10 to 30 minutes depending on the complexity. With DMS, we can present ready-to-use data from our database with caching enabled to shorten this querying process to less than a half second.
 
 
-## [Bayland Health Models Repository (BHMR)](/datascience/)
+## [Bayland Health Models Repository (BHMR)](/datascience)
 
 We are actively working on building a regression model based on the Search Rank dataset, stored in S3, and the Search Query dataset stored in RDS aurora. The model will take ranking as a parameter and produce search volume as output. Based on this model, we can utilize the Amazon Search Term Report with daily granularity on search rank to predict the search volume. 
 We will continue to refine this model and uses different special dates to make seasonal adjustment accordingly.
