@@ -11,14 +11,31 @@ A simple query about the total number of units sold yesterday will require loggi
 With DMS, we can present ready-to-use data from our database with caching enabled to shorten this querying process to less than a half second.
 
 
-## DMS Tutorial
+## DMS Menu
+[Sign up](#sign-up)\
+[Sign in](#sign-in)
 
 ### Sign up
-![chrome-capture-2023-12-4](https://github.com/Bayland-Health/Bayland-Health.github.io/assets/94433735/af6b08b0-a013-452d-8959-a8d9a58b4dd1)
-1. Open [dash.dpltrading.com](https://dash.dpltrading.com) from a safe and trusted network enviroment, otherwise you will be blocked.
-2. Click the Sign in button and you will be propted to AWS cognito custom authtication page.
-3. Click the Sign up on the bottom and fill in the required fields, use your company email and ask your administrator for Profile code.
-4. After signing up, confirm the email by checking your inbox and clicking the confirmation link. There is also an email subscription and we recommend confirming that as well to stay updated.
-5. Then you can use the user name and password to Sign in through the home page.
+
+1. Open [dash.dpltrading.com](https://dash.dpltrading.com) from a safe and trusted network environment, otherwise you will be blocked.
+2. Click the `Sign in` button and you will be prompted to the AWS Cognito custom authentication page.
+3. Click the `Sign up` on the bottom and fill in the required fields, use your company email, and ask your administrator for the Profile code.
+4. After signing up, confirm the email by checking your inbox, copying the verification code, and hitting that `Confirm account` button. Then you will be automatically signed in.
+5. There is also an email subscription and we recommend confirming that as well to stay updated.
+6. After this, you can use the username and password to Sign in through the home page.
+
+![chrome_jh0cBpFslO](https://github.com/Bayland-Health/Bayland-Health.github.io/assets/94433735/915e29e1-12fd-4b50-a399-04fe21d937ce)
+
+
 
 ### Sign in
+
+1. Open [dash.dpltrading.com](https://dash.dpltrading.com) from a safe and trusted network environment, otherwise you will be blocked.
+2. Click the Sign in button and you will be prompted to the AWS Cognito custom authentication page.
+3. Input your username and password and hit the `Sign in` button.
+4. Then you will be signed in and browse through data available to your user group.
+
+![chrome_oHbhyJ5QC0](https://github.com/Bayland-Health/Bayland-Health.github.io/assets/94433735/2a4360b2-c7fe-491e-a635-1ccacf1deedf)
+
+
+
